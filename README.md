@@ -2,6 +2,6 @@
 ## Проект выполнил: Артемьев Сергей
 
 ### Технологии
--html
--css
--javascript
+- html
+- css
+- javascript
