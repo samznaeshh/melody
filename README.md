@@ -1,8 +1,9 @@
-# melody - Учебный проект
-## Проект выполнил: Артемьев Сергей
+# melody-08.01 - this thing is for studing
+## Работа выполнена: Артемьев И.
 
 ### Технологии
 - html
 - css
-- javascript
-# https://samznaeshh.github.io/melody/
+- js
+
+## [what resulted](https://time221.github.io/melody-08.01/)
